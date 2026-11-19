@@ -88,8 +88,8 @@ export const DATA = {
       location: "México",
       title: "Desarrollador de automatización", // CAMBIAR: tu puesto real
       logoUrl: "https://avatar.vercel.sh/grupo-ancor?size=40",
-      start: "Mes 08/05/2025", // CAMBIAR: fecha de inicio
-      end: "Mes 18/08/2025", // CAMBIAR: fecha de fin (o quita esta línea si sigues ahí)
+      start: "Mes 04/25", // CAMBIAR: fecha de inicio
+      end: "Mes 08/25", // CAMBIAR: fecha de fin (o quita esta línea si sigues ahí)
       description:
         "Automaticé procesos de costos y cobros conectando distintos sistemas mediante APIs, para reducir el trabajo manual y los errores en el día a día del equipo.",
     },
@@ -108,7 +108,7 @@ export const DATA = {
     {
       title: "Aura Battle",
       href: "#",
-      dates: "Mes AAAA - Mes AAAA", // CAMBIAR
+      dates: "Mes 09/26 - Actualidad ", // CAMBIAR
       active: true,
       description:
         "Videojuego desarrollado en Godot. Aquí puedes contar de qué trata, qué hiciste tú y qué fue lo más retador de hacerlo.",
@@ -120,7 +120,7 @@ export const DATA = {
     {
       title: "Automatización de costos y cobros",
       href: "#",
-      dates: "Mes AAAA - Mes AAAA", // CAMBIAR
+      dates: "Mes 04/25 - Mes 08/25", // CAMBIAR
       active: false,
       description:
         "Proyecto realizado en Grupo Ancor para automatizar el cálculo de costos y el seguimiento de cobros, conectando los sistemas de la empresa por medio de APIs.",
